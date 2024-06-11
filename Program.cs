@@ -10,7 +10,7 @@
 
             int age = 2024 - yearOfBirth;
             string generation = "";
-            string stage = "";
+            string stage = ""; 
 
             if (age >= 79 && age <= 96)
             {
